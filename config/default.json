@@ -1,0 +1,7 @@
+{
+    "port"  : 8888,
+    "host" : "localhost",
+    "database" : "node",
+    "user" : "dac",
+    "password" : "dac"
+}
